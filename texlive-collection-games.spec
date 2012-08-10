@@ -1,4 +1,4 @@
-# revision 25006
+# revision 25963
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-games
 Epoch:		1
-Version:	20120224
+Version:	20120810
 Release:	1
 Summary:	Games typesetting
 Group:		Publishing
@@ -28,7 +28,6 @@ Requires:	texlive-gamebook
 Requires:	texlive-go
 Requires:	texlive-hanoi
 Requires:	texlive-hexgame
-Requires:	texlive-jeopardy
 Requires:	texlive-othello
 Requires:	texlive-othelloboard
 Requires:	texlive-psgo
