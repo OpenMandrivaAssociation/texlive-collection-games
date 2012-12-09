@@ -55,3 +55,16 @@ Setups for typesetting various games, including chess.
 %build
 
 %install
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
++ Revision: 813905
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780312
+- Update to latest release.
+- Import texlive-collection-games
+- Import texlive-collection-games
+
