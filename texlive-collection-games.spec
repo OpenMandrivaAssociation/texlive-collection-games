@@ -1,4 +1,4 @@
-# revision 25963
+# revision 30530
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-games
 Epoch:		1
-Version:	20120810
+Version:	20131013
 Release:	1
 Summary:	Games typesetting
 Group:		Publishing
@@ -16,6 +16,7 @@ Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-games.
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
+Requires:	texlive-collection-latex
 Requires:	texlive-bartel-chess-fonts
 Requires:	texlive-chess
 Requires:	texlive-chess-problem-diagrams
@@ -28,6 +29,8 @@ Requires:	texlive-gamebook
 Requires:	texlive-go
 Requires:	texlive-hanoi
 Requires:	texlive-hexgame
+Requires:	texlive-horoscop
+Requires:	texlive-logicpuzzle
 Requires:	texlive-othello
 Requires:	texlive-othelloboard
 Requires:	texlive-psgo
@@ -40,7 +43,6 @@ Requires:	texlive-sudoku
 Requires:	texlive-sudokubundle
 Requires:	texlive-xq
 Requires:	texlive-xskak
-Requires:	texlive-collection-latex
 
 %description
 Setups for typesetting various games, including chess.
@@ -55,16 +57,3 @@ Setups for typesetting various games, including chess.
 %build
 
 %install
-
-
-%changelog
-* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
-+ Revision: 813905
-- Update to latest release.
-
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
-+ Revision: 780312
-- Update to latest release.
-- Import texlive-collection-games
-- Import texlive-collection-games
-
