@@ -7,7 +7,7 @@
 Name:		texlive-collection-games
 Epoch:		1
 Version:	20120810
-Release:	1
+Release:	2
 Summary:	Games typesetting
 Group:		Publishing
 URL:		http://tug.org/texlive
