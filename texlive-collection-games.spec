@@ -1,4 +1,4 @@
-# revision 32893
+# revision 33454
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-games
 Epoch:		1
-Version:	20140215
-Release:	2
+Version:	20140621
+Release:	1
 Summary:	Games typesetting
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -30,6 +30,7 @@ Requires:	texlive-go
 Requires:	texlive-hanoi
 Requires:	texlive-hexgame
 Requires:	texlive-horoscop
+Requires:	texlive-labyrinth
 Requires:	texlive-logicpuzzle
 Requires:	texlive-othello
 Requires:	texlive-othelloboard
