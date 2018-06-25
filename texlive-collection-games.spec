@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-games
 Epoch:		1
-Version:	20170414
+Version:	20180525
 Release:	1
 Summary:	Games typesetting
 Group:		Publishing
