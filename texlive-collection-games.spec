@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-games
 Epoch:		1
-Version:	20180525
-Release:	2
+Version:	20180831
+Release:	1
 Summary:	Games typesetting
 Group:		Publishing
 URL:		http://tug.org/texlive
