@@ -1,6 +1,6 @@
 Name:		texlive-collection-games
 Epoch:		1
-Version:	67619
+Version:	68957
 Release:	1
 Summary:	Games typesetting
 Group:		Publishing
