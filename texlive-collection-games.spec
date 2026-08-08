@@ -1,5 +1,5 @@
 %global tl_name collection-games
-%global tl_revision 79624
+%global tl_revision 79849
 
 Name:		texlive-%{tl_name}
 Version:	%{tl_revision}
@@ -70,6 +70,7 @@ Requires:	texlive(sudokubundle)
 Requires:	texlive(tangramtikz)
 Requires:	texlive(thematicpuzzle)
 Requires:	texlive(tictactoe)
+Requires:	texlive(tikz-catan)
 Requires:	texlive(tikz-triminos)
 Requires:	texlive(trivialpursuit)
 Requires:	texlive(twoxtwogame)
